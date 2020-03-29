@@ -10,7 +10,7 @@ Feel free to contribute if you know some great resources that fits the definitio
 - [MIT Programming with categories](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
 
 ### Type Theory
-- [Oregon Programming Languages Summer School 2010 (video playlist)](https://www.youtube.com/watch?v=YRu7Xi-mNK8&list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf&index=5)
+- [Oregon Programming Languages Summer School 2010 (video playlist)](https://www.youtube.com/watch?v=ev7AYsLljxk&list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf&index=5)
 - [Adventure with Types in Haskell - Simon Peyton Jones (video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5DnCP3r3bvKreRjRRWpp1Ao)
 
 ### Proof Theory
