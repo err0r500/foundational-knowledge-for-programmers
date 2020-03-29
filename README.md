@@ -32,8 +32,12 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 ### Actor Model
 - [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know... (video)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
-## Architecture
+## Software Architecture
 TODO (hexagonal / clean, distributed systems...)
+
+## Computer Architecture
+- [Computer Architecture - ETH Zürich - Fall 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
+- [Programming from the ground up by Jonathan Bartlett (pdf)](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
 ## Algorithms
 - [CSE373 - Analysis of Algorithms by Steven Skiena (video playlist)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
