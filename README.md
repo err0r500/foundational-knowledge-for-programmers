@@ -1,7 +1,5 @@
 # Foundational knowledge (for programmers)
 
-Here's a list of resources about foundational knowledge for programmers (supposed to last a few decades).
-
 Feel free to contribute if you know some great resources that fits the definition above !
 
 NB : "foundational knowledge" is very different from "basic knowledge" : if you're a newcomer in the field, aiming to become "job-ready" (argh)... it may not be the shortest path.
