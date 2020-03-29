@@ -4,6 +4,8 @@ Here's a list of resource about programmers foundational knowledge (supposed to 
 
 Feel free to contribute if you know some great resources that fits the definition above !
 
+NB : "foundational knowledge" is very different from "basic knowledge" : if you're a newcomer in the field, aiming to become "job-ready" (argh)... it may not be the shortest path.
+
 ## Computer Science 
 ### Category Theory
 - [Bartosz Milewski introduction (video playlist)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
@@ -19,6 +21,16 @@ Feel free to contribute if you know some great resources that fits the definitio
 ### Misc
 - [MIT 6.042J Mathematics for Computer Science (video playlist)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 - [Dependant types with Idris by Edwin Brady](https://www.youtube.com/playlist?list=PL7lYBKOG3R5CLb6AOhE4EaSmVzXrgJM6n)
+
+## Programming paradigms
+
+[the rabbit hole  (wikipedia) ](https://en.wikipedia.org/wiki/Programming_paradigm)
+
+### Imperative
+- [Programming from the ground up by Jonathan Bartlett (pdf)](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
+
+### Actor Model
+- [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know... (video)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
 ## Algorithms
 - [CSE373 - Analysis of Algorithms by Steven Skiena (video playlist)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
