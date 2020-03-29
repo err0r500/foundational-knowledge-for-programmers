@@ -24,7 +24,9 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 
 ## Programming paradigms
 
-[the rabbit hole  (wikipedia) ](https://en.wikipedia.org/wiki/Programming_paradigm)
+### General
+- [the rabbit hole (wikipedia) ](https://en.wikipedia.org/wiki/Programming_paradigm)
+- [Stanford Programming Paradigms (video playlist)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 ### Imperative
 - [Programming from the ground up by Jonathan Bartlett (pdf)](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
