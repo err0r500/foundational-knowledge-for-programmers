@@ -9,7 +9,7 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 ## Computer Science 
 ### Category Theory
 - [Bartosz Milewski introduction (video playlist)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
-- [MIT Programming with categories](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
+- [MIT Programming with categories (video playlist)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
 
 ### Type Theory
 - [Oregon Programming Languages Summer School 2010 (video playlist)](https://www.youtube.com/watch?v=ev7AYsLljxk&list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf&index=5)
@@ -20,7 +20,7 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 
 ### Misc
 - [MIT 6.042J Mathematics for Computer Science (video playlist)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
-- [Dependant types with Idris by Edwin Brady](https://www.youtube.com/playlist?list=PL7lYBKOG3R5CLb6AOhE4EaSmVzXrgJM6n)
+- [Dependant types with Idris by Edwin Brady (video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5CLb6AOhE4EaSmVzXrgJM6n)
 
 ## Programming paradigms
 
@@ -36,7 +36,7 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 TODO (hexagonal / clean, distributed systems...)
 
 ## Computer Architecture
-- [Computer Architecture - ETH Zürich - Fall 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
+- [Computer Architecture - ETH Zürich - Fall 2019 (video playlist)](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
 - [Programming from the ground up by Jonathan Bartlett (pdf)](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
 ## Algorithms
@@ -50,6 +50,6 @@ TODO (hexagonal / clean, distributed systems...)
 - [Network Fundamentals (video playlist)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 
 ## Cryptography
-- [PKI bootcamp](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv) 
-- [Christof Paar - Introduction to Cryptography](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
-- [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
+- [PKI bootcamp (video playlist)](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv) 
+- [Christof Paar - Introduction to Cryptography (video playlist)](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
+- [MIT 6.875 (Cryptography), Spring 2018 (video playlist)](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
