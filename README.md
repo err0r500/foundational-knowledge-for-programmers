@@ -47,3 +47,5 @@ TODO (hexagonal / clean, distributed systems...)
 
 ## Cryptography
 - [PKI bootcamp](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv) 
+- [Christof Paar - Introduction to Cryptography](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
+- [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
