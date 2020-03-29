@@ -1,6 +1,6 @@
 # Foundational knowledge (for programmers)
 
-Here's a list of resource about programmers foundational knowledge (supposed to last a few decades).
+Here's a list of resources about foundational knowledge for programmers (supposed to last a few decades).
 
 Feel free to contribute if you know some great resources that fits the definition above !
 
