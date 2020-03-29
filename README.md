@@ -32,6 +32,9 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 ### Actor Model
 - [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know... (video)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
+## Architecture
+TODO (hexagonal / clean, distributed systems...)
+
 ## Algorithms
 - [CSE373 - Analysis of Algorithms by Steven Skiena (video playlist)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 
