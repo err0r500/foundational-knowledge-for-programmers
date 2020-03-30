@@ -2,7 +2,7 @@
 
 Feel free to contribute if you know some great resources that fits the definition above !
 
-NB : "foundational knowledge" is very different from "basic knowledge" : if you're a newcomer in the field, aiming to become "job-ready" (argh)... it may not be the shortest path.
+__NB__ : "foundational knowledge" is very different from "basic knowledge" : if you're a newcomer in the field, it may not be the shortest path to become "job-ready"...
 
 ## Computer Science 
 ### Category Theory
@@ -45,6 +45,7 @@ TODO (hexagonal / clean, distributed systems...)
 
 ## Algorithms
 - [CSE373 - Analysis of Algorithms by Steven Skiena (video playlist)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+- [The Algorithm Design Manual (💲 book)](http://www.algorist.com/)
 
 ## Data Science
 ### Linear Algebra
