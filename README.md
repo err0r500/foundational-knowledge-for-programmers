@@ -67,7 +67,6 @@ TODO (hexagonal / clean, distributed systems...)
 
 ## Networking
 - [Network Fundamentals (video playlist)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
-- [Computer Networking (video playlist)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
 
 ## Cryptography
 - [PKI bootcamp (video playlist)](https://www.youtube.com/watch?v=q9vu6_2r0o4&list=PLDp2gaPHHZK-mnKi3Zy_-hRjqLHh5PaAv) 
