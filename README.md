@@ -48,6 +48,19 @@ TODO (hexagonal / clean, distributed systems...)
 ### Linear Algebra
 - [MIT 18.06 (video playlist)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
+### Discrete Mathematics
+- [Notes on Discrete Mathematics (Yale) (pdf)](http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
+
+### Calculus
+- [Introduction to Calculus (pdf)](https://arachnoid.com/calculus/index.html)
+
+### Machine Learningn and Deep Learning
+- [Mathematics of Machine Learning (MIT) (pdf)](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf)
+- [The Matrix Calculus You Need For Deep Learning (University of San Francisco) (pdf)](https://explained.ai/matrix-calculus/index.html)
+- [CS294: Deep Reinforcement Learning (Berkeley) (video playlist)](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+- [Convolutional Neural Networks for Visual Recognition (Stanford) (video playlist)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [CS224N: Natural Language Processing with Deep Learning (Stanford) (video playlist)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+
 ## Networking
 - [Network Fundamentals (video playlist)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - [Computer Networking (video playlist)](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO)
