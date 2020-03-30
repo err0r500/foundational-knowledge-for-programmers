@@ -10,6 +10,7 @@ __NB__ : "foundational knowledge" is very different from "basic knowledge" : if 
 - [MIT Programming with categories (video playlist)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
 
 ### Type Theory
+- [Propositions as Types (video)](https://www.youtube.com/watch?v=SknxggwRPzU)
 - [The Little Typer (💲 book)](https://mitpress.mit.edu/books/little-typer)
 - [Oregon Programming Languages Summer School 2010 (video playlist)](https://www.youtube.com/watch?v=ev7AYsLljxk&list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf&index=5)
 - [Adventure with Types in Haskell - Simon Peyton Jones (video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5DnCP3r3bvKreRjRRWpp1Ao)
