@@ -37,6 +37,8 @@ NB : "foundational knowledge" is very different from "basic knowledge" : if you'
 ## Software Architecture
 TODO (hexagonal / clean, distributed systems...)
 
+- [System Design (video playlist)](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
+
 ## Computer Architecture
 - [Computer Architecture - ETH Zürich - Fall 2019 (video playlist)](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-DyoI3HbqcdtUm9YWRR_z-)
 - [Programming from the ground up by Jonathan Bartlett (pdf)](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
