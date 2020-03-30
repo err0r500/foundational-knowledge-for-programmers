@@ -13,7 +13,6 @@ __NB__ : "foundational knowledge" is very different from "basic knowledge" : if 
 - [Propositions as Types (video)](https://www.youtube.com/watch?v=SknxggwRPzU)
 - [The Little Typer (💲 book)](https://mitpress.mit.edu/books/little-typer)
 - [Oregon Programming Languages Summer School 2010 (video playlist)](https://www.youtube.com/watch?v=ev7AYsLljxk&list=PL8Ky8lYL8-Oh7awp0sqa82o7Ggt4AGhyf&index=5)
-- [Adventure with Types in Haskell - Simon Peyton Jones (video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5DnCP3r3bvKreRjRRWpp1Ao)
 
 ### Proof Theory
 - [The Little Prover (💲 book)](https://mitpress.mit.edu/books/little-prover)
@@ -22,6 +21,7 @@ __NB__ : "foundational knowledge" is very different from "basic knowledge" : if 
 ### Misc
 - [MIT 6.042J Mathematics for Computer Science (video playlist)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 - [Dependant types with Idris by Edwin Brady (video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5CLb6AOhE4EaSmVzXrgJM6n)
+- [Adventure with Types in Haskell - Simon Peyton Jones (video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5DnCP3r3bvKreRjRRWpp1Ao)
 
 ## Programming paradigms
 
