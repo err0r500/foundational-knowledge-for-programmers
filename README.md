@@ -57,7 +57,7 @@ TODO (hexagonal / clean, distributed systems...)
 ### Calculus
 - [Introduction to Calculus (pdf)](https://arachnoid.com/calculus/index.html)
 
-### Machine Learningn and Deep Learning
+### Machine Learning and Deep Learning
 - [Mathematics of Machine Learning (MIT) (pdf)](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf)
 - [The Matrix Calculus You Need For Deep Learning (University of San Francisco) (pdf)](https://explained.ai/matrix-calculus/index.html)
 - [CS294: Deep Reinforcement Learning (Berkeley) (video playlist)](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
