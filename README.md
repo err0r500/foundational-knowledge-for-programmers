@@ -8,6 +8,7 @@ __NB__ : "foundational knowledge" is very different from "basic knowledge" : if 
 ### Category Theory
 - [Bartosz Milewski introduction (video playlist)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 - [MIT Programming with categories (video playlist)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
+- [Seven Sketches in Compositionality: An Invitation to Applied Category Theory (book)](https://arxiv.org/abs/1803.05316)
 
 ### Type Theory
 - [Propositions as Types (video)](https://www.youtube.com/watch?v=SknxggwRPzU)
