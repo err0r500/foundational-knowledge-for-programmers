@@ -2,6 +2,9 @@
 
 _Foundational knowledge_ is very different from _basic knowledge_ : if you're a newcomer in the field, it may not be the shortest path to become "job-ready"... but what you'll learn here will last your life long !
 
+
+![xkcd complex numbers](https://imgs.xkcd.com/comics/complex_numbers.png)
+
 Feel free to contribute if you know some great resources that fits the definition above. 
 
 
