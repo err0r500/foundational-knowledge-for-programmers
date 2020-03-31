@@ -84,7 +84,8 @@ TODO (hexagonal / clean, distributed systems...)
 
 ## Data Science
 ### Linear Algebra
-- [MIT 18.06 (video playlist)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+- Linear Algebra course by Gilbert Strang (MIT) 
+  [(video playlist)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
 
 ### Discrete Mathematics
