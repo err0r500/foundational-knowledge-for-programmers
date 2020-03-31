@@ -10,7 +10,7 @@ Feel free to contribute if you know some great resources that fits the definitio
 - Category Theory for Programmers by B. Milewski 
   [(video playlist)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) 
   [(book)](https://github.com/hmemcpy/milewski-ctfp-pdf)
-- MIT Programming with categories 
+- Programming with categories (MIT)
   [(video playlist)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7MTGhUROZy3BOICnVixETS)
 - Seven Sketches in Compositionality: An Invitation to Applied Category Theory 
   [(book)](https://arxiv.org/abs/1803.05316)
