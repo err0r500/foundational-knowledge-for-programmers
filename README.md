@@ -9,6 +9,14 @@ Feel free to contribute if you know some great resources that fits the definitio
 
 
 ## Computer Science 
+
+### General 
+- Structure and Interpretation of Computer Programs (MIT)
+  [(video playlist)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+  [(book)](https://web.mit.edu/alexmv/6.037/sicp.pdf)
+- Mathematics for Computer Science (MIT)
+  [(video playlist)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
+
 ### Category Theory
 - Category Theory for Programmers by B. Milewski 
   [(video playlist)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) 
@@ -36,11 +44,6 @@ Feel free to contribute if you know some great resources that fits the definitio
 
 
 ### Misc
-- Structure and Interpretation of Computer Programs (MIT)
-  [(video playlist)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
-  [(book)](https://web.mit.edu/alexmv/6.037/sicp.pdf)
-- Mathematics for Computer Science (MIT)
-  [(video playlist)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 - Dependant types with Idris by Edwin Brady 
   [(video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5CLb6AOhE4EaSmVzXrgJM6n)
 - Adventure with Types in Haskell - Simon Peyton Jones 
