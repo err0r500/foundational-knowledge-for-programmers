@@ -83,9 +83,11 @@ TODO (hexagonal / clean, distributed systems...)
   [(book)](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf)
 
 
-## Algorithms
+## Algorithms & Data structures
 - Analysis of Algorithms by Steven Skiena 
   [(video playlist)](https://www.youtube.com/playlist?list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+- Purely Functional Data Structures by Chris Okasaki
+  [(book)](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf)
 - The Algorithm Design Manual 
   [(💲 book)](http://www.algorist.com/)
 
