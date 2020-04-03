@@ -59,6 +59,9 @@ Feel free to contribute if you know some great resources that fits the definitio
 - Programming Paradigms (Stanford)
   [(video playlist)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
+### Functional 
+- Erik Meijer: Functional Programming 
+  [(video)](https://youtu.be/z0N1aZ6SnBk?t=416)
 
 ### Imperative
 - Programming from the ground up by Jonathan Bartlett 
