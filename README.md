@@ -44,7 +44,7 @@ Feel free to contribute if you know some great resources that fits the definitio
 
 
 ### Misc
-- Dependant types with Idris by Edwin Brady 
+- Dependent types with Idris by Edwin Brady 
   [(video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5CLb6AOhE4EaSmVzXrgJM6n)
 - Adventure with Types in Haskell - Simon Peyton Jones 
   [(video playlist)](https://www.youtube.com/playlist?list=PL7lYBKOG3R5DnCP3r3bvKreRjRRWpp1Ao)
