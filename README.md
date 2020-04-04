@@ -17,6 +17,13 @@ Feel free to contribute if you know some great resources that fits the definitio
 - Mathematics for Computer Science (MIT)
   [(video playlist)](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
 
+
+### Programming Language Theory
+- Programming Language Foundations in Agda by P. Wadler
+  [(book)](https://plfa.github.io/)
+  [(repo)](https://github.com/plfa/plfa.github.io/)
+
+
 ### Category Theory
 - Category Theory for Programmers by B. Milewski 
   [(video playlist)](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_) 
