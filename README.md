@@ -82,9 +82,15 @@ Feel free to contribute if you know some great resources that fits the definitio
 ## Software Architecture
 TODO (hexagonal / clean, distributed systems...)
 
+### General
 - System Design 
   [(video playlist)](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 
+### Distributed Systems Design
+- Time, Clocks, and the Ordering of Events in a Distributed System 
+  [(article)](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
+- The TLA+ Video Course by Leslie Lamport 
+  [(course)](https://lamport.azurewebsites.net/video/videos.html)
 
 ## Computer Architecture
 - Computer Architecture (ETH Zürich)
