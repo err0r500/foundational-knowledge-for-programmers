@@ -80,9 +80,22 @@ Feel free to contribute if you know some great resources that fits the definitio
   [(video)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 
 ## Software Architecture
-TODO (hexagonal / clean, distributed systems...)
 
 ### General
+
+- Architecture of Open Source Applications
+  * Volume I 
+    [(website)](https://aosabook.org/en/index.html#aosa1) 
+    [(💲 book)](https://aosabook.org/en/buy.html#vol1)
+  * Volume II 
+    [(website)](https://aosabook.org/en/index.html#aosa2) 
+    [(💲 book)](https://aosabook.org/en/buy.html#vol2)
+  * 500 lines or less 
+    [(website)](https://aosabook.org/en/index.html#500lines) 
+    [(💲 book)](https://aosabook.org/en/buy.html#fh)
+  * Performance of Open Source Applications
+    [(website)](https://aosabook.org/en/index.html#posa) 
+    [(💲 book)](https://aosabook.org/en/buy.html#posa)
 - System Design 
   [(video playlist)](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
 
