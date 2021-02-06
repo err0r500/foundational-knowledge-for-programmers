@@ -19,6 +19,10 @@ Feel free to contribute if you know some great resources that fits the definitio
 
 
 ### Programming Language Theory
+- Software Foundations in Coq by B. Pierce [(website)](https://softwarefoundations.cis.upenn.edu/)
+  * Logical Foundations [(website)](https://softwarefoundations.cis.upenn.edu/lf-current/index.html)
+  * Programming Language Foundations [(website)](https://softwarefoundations.cis.upenn.edu/plf-current/index.html) [(video serie, see page bottom)](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+  * Verified Functional Algorithms [(website)](https://softwarefoundations.cis.upenn.edu/vfa-current/index.html)
 - Programming Language Foundations in Agda by P. Wadler
   [(book)](https://plfa.github.io/)
   [(repo)](https://github.com/plfa/plfa.github.io/)
